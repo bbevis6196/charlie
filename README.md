@@ -6,4 +6,5 @@
 
 ## How we used it 
 -In our CHARLIE lab instead of sending a header and a reference to our git hub we will send out and reference our Angular file 
--This allows for the webpage to 
+-This allows for the webpage to be asynchronous
+-With allowing input refgerenced on our angular.html it will allow for this input to be updated on the page and eventually the files.
